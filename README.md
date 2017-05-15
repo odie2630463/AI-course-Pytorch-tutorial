@@ -6,5 +6,5 @@
  - Neural Network
  - MNIST example
 
-## CNN HW
+## Assignment
  - cifar10 dataset image classification
